@@ -1,0 +1,7 @@
+Pillow
+exifread
+python-docx
+PyPDF2
+rich
+streamlit
+
